@@ -14,7 +14,7 @@ namespace FirstLesson
             WriteLine("Enter your Name");
             string Name = ReadLine();
             WriteLine("Enter your age");
-            int age =int.Parse(ReadLine());
+            int age = int.Parse(ReadLine());
             WriteLine("Enter your Location");
             string Location = ReadLine();
             WriteLine("Enter your Profession");
